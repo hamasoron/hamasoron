@@ -85,7 +85,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamasoron&theme=flat&column=7&no-frame=true" />
+  <img src="https://github-trophies.vercel.app/?username=hamasoron&theme=flat&column=7&no-frame=true" />
 </p>
 
 ---
