@@ -98,19 +98,6 @@
 
 ---
 
-## 📝 Articles
-
-- 記事を書いたらここにリンクを追加
-
----
-
-## 📫 Contact
-
-- Portfolio: [準備中]()
-- X (Twitter): [@準備中]()
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamasoron&color=blueviolet&style=for-the-badge" />
 </p>
