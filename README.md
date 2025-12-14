@@ -75,9 +75,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamasoron&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamasoron&layout=compact&theme=tokyonight" />
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamasoron&layout=compact&theme=default" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hamasoron&show_icons=true&theme=default" />
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamasoron&theme=tokyonight&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hamasoron&theme=flat&column=7&no-frame=true" />
 </p>
 
 ---
