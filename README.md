@@ -90,7 +90,11 @@
 
 ---
 
-## 🐍 Contribution
+## 📈 Contribution
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamasoron&bg_color=ffffff&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hamasoron/hamasoron/output/github-snake-custom.svg" alt="Snake animation" />
