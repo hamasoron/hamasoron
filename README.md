@@ -93,7 +93,7 @@
 ## 🐍 Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hamasoron/hamasoron/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hamasoron/hamasoron/output/github-snake-custom.svg" alt="Snake animation" />
 </p>
 
 ---
