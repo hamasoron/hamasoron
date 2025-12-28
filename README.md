@@ -65,6 +65,7 @@
 ### 🛠️ Other
 <p>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" />
 </p>
 
 ### 🗄️ Database
